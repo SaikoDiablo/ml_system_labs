@@ -1,0 +1,9 @@
+model,environment,model_size_mb,model_size_limit_mb,fits_model_file_size_limit,fits_100_kb_model_limit
+Logistic Regression,Cloud,0.0030956268310546875,1024.0,True,True
+Logistic Regression,Edge,0.0030956268310546875,256.0,True,True
+Logistic Regression,Mobile,0.0030956268310546875,64.0,True,True
+Logistic Regression,TinyML,0.0030956268310546875,0.25,True,True
+Random Forest,Cloud,0.27832889556884766,1024.0,True,False
+Random Forest,Edge,0.27832889556884766,256.0,True,False
+Random Forest,Mobile,0.27832889556884766,64.0,True,False
+Random Forest,TinyML,0.27832889556884766,0.25,False,False

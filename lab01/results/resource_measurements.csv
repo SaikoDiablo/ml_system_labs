@@ -1,0 +1,3 @@
+model,model_size_bytes,model_size_kb,model_size_mb,process_memory_after_training_mib,memory_change_during_training_mib
+Logistic Regression,3246,3.169921875,0.0030956268310546875,157.5078125,0.09375
+Random Forest,291849,285.0087890625,0.27832889556884766,157.92578125,0.0
